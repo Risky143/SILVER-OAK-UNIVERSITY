@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book_no>1</book_no>
+  <book_cat>Horror</book_cat>
+  <book_author>Rishi</book_author>
+  <book_name>RaatRani</book_name>
+  <book_description>Stya ghatna par adharit , very very horror book be carful ...:(</book_description>
+  <book_price>Rs.1101</book_price>
+<breack_line>=========================================================================</breack_line>
+  <book_no>2</book_no>
+  <book_cat>Romantic</book_cat>
+  <book_author>VIdhi</book_author>
+  <book_name>Mari Prem Katha (chapter - 1 )</book_name>
+  <book_description>Heart toching love story based on real life of vidhi .. very very emotional..</book_description>
+  <book_price>Rs.1201</book_price>
+  <breack_line>=========================================================================</breack_line>
+  <book_no>3</book_no>
+  <book_cat>Comady</book_cat>
+  <book_author>Hans</book_author>
+  <book_name>Natkhat hans</book_name>
+  <book_description>base hans real life gfs hahahahahahahaha , very very comedy hahahaha </book_description>
+  <book_price>Rs.1001</book_price>
+
+
+
+</bookstore>
